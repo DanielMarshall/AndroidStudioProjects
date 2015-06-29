@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="analog_hand_stroke">3dp</dimen>
+    <dimen name="compass_border_width">1dp</dimen>
+    <dimen name="compass_tick_width">3dp</dimen>
+    <dimen name="compass_tick_depth">20dp</dimen>
+    <dimen name="watch_padding">10dp</dimen>
+    <dimen name="text_size">40dp</dimen>
+</resources>
